@@ -2,7 +2,6 @@
 <h4 align="center"> nickname: KK</h4>
 <h2 align="center">A passionate Student from Tamil Nadu</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kishorekumar0603&label=Profile%20views&color=0e75b6&style=flat" alt="kishorekumar0603" /> </p>
 
 - 🌱 I’m currently learning **Frontend Webdevelopement**
 
