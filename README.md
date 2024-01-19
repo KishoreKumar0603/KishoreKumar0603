@@ -3,7 +3,7 @@
 <h2 align="center">A passionate Student from Tamil Nadu</h2>
 
 
-- 🌱 I’m currently learning **Frontend Webdevelopement**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **kishorekumars5643@gmail.com**
 
