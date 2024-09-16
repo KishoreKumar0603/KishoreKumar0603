@@ -1,3 +1,4 @@
+
 <h5 align="center"> Hello there 👋, I am</h5>
 <h2 align="center"> Kishore Kumar S </h2>
 <p align="center">
@@ -34,5 +35,3 @@
 <p align="center">
    <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/> 
 </p>
-<h3>Stats</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kishorekumar0603&show_icons=true&locale=en" alt="kishorekumar0603" /></p>
