@@ -26,7 +26,7 @@
 
 <h3>Strongholds ✍️ </h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Numpy-013220?&style=for-the-badge&logo=numpy"/> <img src="https://img.shields.io/badge/Pandas-130654?&style=for-the-badge&logo=pandas"/> <img src="https://img.shields.io/badge/Scikit--Learn-%233294C7?&style=for-the-badge&logo=scikit-learn"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Numpy-013220?&style=for-the-badge&logo=numpy"/> <img src="https://img.shields.io/badge/Pandas-130654?&style=for-the-badge&logo=pandas"/> <img src="https://img.shields.io/badge/Scikit--Learn-%233294C7?&style=for-the-badge&logo=scikit-learn"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
