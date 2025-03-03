@@ -4,11 +4,8 @@
 <p align="center">
 😃Welcome all to visit my Universe 🌌 of Projects
 </p>
-<h4 align="center">Say hello to your friend</h3>
+<h4 align="center">Connect With Me</h3>
 <p align="center">
-  <!--
-<a href="https://twitter.com/kishorekumar0603" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@kishorekumar0603" height="20" width="30" /></a>
-  -->
 <a href="https://linkedin.com/in/kishorekumar-s-256b10254" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kishorekumar-s-256b10254" height="20" width="30" /></a>
 <a href="https://kaggle.com/kishorekumar0603" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="kishorekumar0603" height="20" width="30" /></a>
 <a href="https://instagram.com/kishorekumar_0616" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kishorekumar_0616" height="20" width="30" /></a>
@@ -27,7 +24,7 @@
 
 <h3>Strongholds ✍️ </h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Pandas-130654?&style=for-the-badge&logo=pandas"/> <img src="https://img.shields.io/badge/Scikit--Learn-%233294C7?&style=for-the-badge&logo=scikit-learn"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-130654?&style=for-the-badge&logo=pandas"/>  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Numpy-013220?&style=for-the-badge&logo=numpy"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
